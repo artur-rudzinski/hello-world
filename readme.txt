@@ -2,4 +2,4 @@ Hello
 
 pierwsza zmiana 
 
-druga zmiana z konfliktem
+druga zmiana z konfliktem remote
