@@ -2,4 +2,4 @@ Hello
 
 pierwsza zmiana 
 
-druga zmiana
+druga zmiana z konfliktem
